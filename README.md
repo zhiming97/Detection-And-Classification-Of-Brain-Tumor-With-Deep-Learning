@@ -80,7 +80,7 @@ This project attempts to develop a deep learning-based detection and classificat
 - The performance of Model 2 (tuned model) is very much likely to improve by using other state of the art versions of EfficientNet e.g. B1 – B7.
 - To train Model 2 with different medical datasets as different datasets may introduce different challenges.
 
-## *************************************  Click [here] to read the full report ******************
+## *********************  Click [here] to read the full report ******************
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
