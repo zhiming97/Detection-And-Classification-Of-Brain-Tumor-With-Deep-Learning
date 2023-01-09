@@ -2,7 +2,7 @@
 
   
 
-## <p> Detection And Classification Of Brain Tumor With Deep dLearning</p>
+## <p> Detection And Classification Of Brain Tumor With Deep Learning</p>
 
 <!-- PROJECT LOGO -->
 
@@ -17,7 +17,7 @@
   <p align="left">
     <br />
    
-  </p>
+  
 
 
 
@@ -61,11 +61,24 @@ This project attempts to develop a deep learning-based detection and classificat
 - It is obtained from Kaggle and the URL to download the dataset is https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset. 
 - However, in this assignment, the dataset will be divided manually into training and testing at a ratio of 80:20 because all the images will be combined into a single list when they are imported from google drive. 
 
-  
+
+
+## Results
+<img width="849" alt="image" src="https://user-images.githubusercontent.com/97498951/211269261-69018998-0827-4589-b6f6-2d1e8dd33680.png">
+
+- The baseline variant of EfficientNet (B0) and without any tuning performed on it, the model is able to achieve an astonishing testing accuracy of 94.52%. 
+- The different hyperparameters tuned in Model 2 are increasing the number of training epochs, implementing decaying learning rate and increasing the batch size. 
+- Although the training process of Model 2 took longer than Model 1, it is still considered to be worth it as there is a slight increase of around 5 % in the testing accuracy. 
+- This 5% increment may not seem very significant on paper, but when comparing it to the number of human lives it can save, this 5% increment suddenly becomes very significant.
+
+## Future Recommendations
+- Experimentation is everything in deep learning as the results may vary with different hyperparameter values and the type of CNN architecture used.
+- The performance of Model 2 (tuned model) is very much likely to improve by using other state of the art versions of EfficientNet e.g. B1 – B7.
+- To train Model 2 with different medical datasets as different datasets may introduce different challenges.
 
 ## ************** Click [here] to read the full report ******************
 
-
+</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
