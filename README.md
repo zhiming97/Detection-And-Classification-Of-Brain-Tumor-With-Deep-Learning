@@ -38,6 +38,10 @@ This project attempts to develop a deep learning-based detection and classificat
 
 
 ## Project Motivation 
+![image](https://user-images.githubusercontent.com/97498951/211273329-889a31be-a648-48ea-af5a-fa2b2b3b80b8.png)
+
+
+
 - Currently, a Magnetic Resonance Imaging (MRI) screening is the best way to detect brain tumours. 
 - Due to the to the level of complexities involved in brain tumours and their properties, the identification of the type of brain tumours are complicated to begin with. 
 - Hence, a thorough analysis by professionals on the MRI images is required to determine whether the tumours are either malignant or benign.
@@ -76,8 +80,7 @@ This project attempts to develop a deep learning-based detection and classificat
 - The performance of Model 2 (tuned model) is very much likely to improve by using other state of the art versions of EfficientNet e.g. B1 – B7.
 - To train Model 2 with different medical datasets as different datasets may introduce different challenges.
 
-## ************** Click [here] to read the full report ******************
-
+## *************************************  Click [here] to read the full report ******************
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
