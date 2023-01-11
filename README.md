@@ -114,4 +114,4 @@ This project attempts to develop a deep learning-based detection and classificat
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[here]: https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg
+[here]: https://github.com/zhiming97/Detection-And-Classification-Of-Brain-Tumor-With-Deep-Learning/blob/main/Detection_and_classification_of_brain_tumour_full_report.pdf
